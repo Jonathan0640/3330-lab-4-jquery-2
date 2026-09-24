@@ -18,6 +18,9 @@ const games = [
   {
     "title": "Super Mario Odyssey"
   },
+  {
+    "title": "Among Us"
+  }
 ]
 
   var gameList, newItemForm, newItemButton;
